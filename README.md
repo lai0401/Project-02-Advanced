@@ -1,0 +1,1 @@
+Adicionando um README, explicando melhor sobre o projeto, as tecnologias usadas e os conhecimentos adquiridos durante o processo. 
